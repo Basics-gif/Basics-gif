@@ -1,10 +1,18 @@
 <div align="center">
 
-  <!-- Imagem Aleatória (Unsplash Source que muda a cada carregamento) -->
-  <img src="https://picsum.photos/800/180?blur=2" width="100%" />
+<pre align="center">
+ _           _ _       _               _                 
+(_)         | (_)     | |             | |                
+ _ _ __   __| |_  ___ | |__   __ _ ___| | _____ _ __ ___ 
+| | '_ \ / _` | |/ _ \| '_ \ / _` / __| |/ / _ \ '__/ __|
+| | | | | (_| | | (_) | | | | (_| \__ \   <  __/ |  \__ \
+|_|_| |_|\__,_|_|\___/|_| |_|\__,_|___/_|\_\___|_|  |___/
+</pre>
 
-  <br />
-  <br />
+  <p align="center">
+    <code>In the same way, the unconscious desire avails itself of the metaphorical translation of the material that defines the subject's mode of relation to their suffering.</code>
+  </p>
+</div>
 
   <p align="center">
     <code>In the same way, the unconscious desire avails itself of the metaphorical translation of the material that defines the subject's mode of relation to their suffering.</code>
