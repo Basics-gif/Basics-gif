@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Header Minimalista -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=%E2%80%A2%20indie%20workspace%20%E2%80%A2&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <!-- Imagem Aleatória (Unsplash Source que muda a cada carregamento) -->
+  <img src="https://picsum.photos/800/180?blur=2" width="100%" />
 
+  <br />
   <br />
 
   <p align="center">
-  <code>In the same way, the unconscious desire avails itself of the metaphorical translation of the material that defines the subject's mode of relation to their suffering.</code>
-</p>
-</p>
+    <code>In the same way, the unconscious desire avails itself of the metaphorical translation of the material that defines the subject's mode of relation to their suffering.</code>
+  </p>
 </div>
 
 ---
@@ -27,6 +27,9 @@
 
 *   **Cloud & Infra:** 
     <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+
+*   **Philosophy:** 
+    <img src="https://img.shields.io/badge/GNU-A92424?style=flat-square&logo=gnu&logoColor=white" alt="GNU" />
 
 ---
 
