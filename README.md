@@ -14,11 +14,6 @@
   </p>
 </div>
 
-  <p align="center">
-    <code>In the same way, the unconscious desire avails itself of the metaphorical translation of the material that defines the subject's mode of relation to their suffering.</code>
-  </p>
-</div>
-
 ---
 
 ### ⚡ Current Stack
